@@ -1,0 +1,1 @@
+# contigeous-allocation-in-AOS
